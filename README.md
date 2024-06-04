@@ -5,6 +5,9 @@ Repository in which I will upload my solutions for the Platzi - JavaScript Super
 
 ## How to run
 
-- Download Node.js
+- Download & install LTS version Node.js
 - Clone this repository
-- Execute `node run` + path to file to execute. Example: > `node run platzi-js-super-hero-challenges/arrays/multiply-by-two.js`
+- Open yout favorite IDE or CLI
+- Execute `node run` + path to file to execute.
+> Example: `node run platzi-js-super-hero-challenges/arrays/multiply-by-two.js`
+- Enjoy 😅
