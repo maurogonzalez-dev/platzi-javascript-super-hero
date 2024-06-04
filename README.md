@@ -9,5 +9,5 @@ Repository in which I will upload my solutions for the Platzi - JavaScript Super
 - Clone this repository
 - Open yout favorite IDE or CLI
 - Execute `node run` + path to file to execute.
-> Example: `node run platzi-js-super-hero-challenges/arrays/multiply-by-two.js`
+> Example: `node run platzi-javascript-super-hero/arrays/multiply-by-two.js`
 - Enjoy 😅
